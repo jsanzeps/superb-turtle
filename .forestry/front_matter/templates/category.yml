@@ -27,5 +27,6 @@ fields:
   config:
     required: true
 pages:
+- _data/categories/episodes-season-3.yaml
 - _data/categories/season-1.yaml
 - _data/categories/season-2.yaml
