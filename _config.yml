@@ -141,3 +141,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://superb-turtle-21803.netlify.app'
